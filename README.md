@@ -8,6 +8,9 @@ The goal is to uncover patterns that can help healthcare providers reduce readmi
 # Key Insights:
 
 • Patients with 6+ comorbidities show the highest readmission rates.
+
 • Older patients (65+) are significantly more likely to be readmitted.
+
 • Discharge to skilled nursing facilities is strongly associated with higher readmission risk.
+
 • Longer hospital stays (8+ days) increase likelihood of readmission.
