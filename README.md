@@ -15,7 +15,9 @@ The goal is to uncover patterns that can help healthcare providers reduce readmi
   
 
 # Business Recommendations
-* Enhance discharge planning for high-risk patients
-* Increase follow-up care for patients with multiple comorbidities
-* Improve care coordination with skilled nursing facilities
-* Monitor patients with extended hospital stays more closely
+*  Implement targeted care plans for patients with 6+ comorbidities, as they show the highest readmission rates
+* Provide closer monitoring and follow-up appointments after discharge
+* Flag long-stay patients as high-risk before discharge
+* Provide continuous care plans instead of one-time treatment
+* Provide follow-up within 48–72 hours after discharge
+
